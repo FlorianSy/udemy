@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style type="text/css">
+    div{
+      width: 100px;
+      height: 100px;
+      float:left;
+      margin:20px;
+      
+    }
+    .rot{
+      background-color: red;
+      border: 10px gold groove ;
+    }
+    .blau{
+      background-color: blue;
+      border: 10px gold ridge;
+    }
+    .grün{
+      background-color: green;
+      border: 10px gold inset;
+    }
+    .braun{
+      background-color: brown;
+      border: 10px gold outset;
+    }
+    .lila{
+      background-color: blueviolet;
+      border: 10px gold double ;
+    }
+    .orange{
+      background-color: orange;
+      border:10px gold solid;
+    }
+    .pink{
+      background-color: pink;
+      border: 10px gold dashed ;
+    }
+    .gray{
+      background-color: gray;
+      border:10px gold dotted;
+    }
+    .red2{
+      background-color: crimson;
+      border: 10px gold hidden;
+    }
+    .black{
+      background-color: black;
+      border: 10px gold none;
+    }
+
+  </style>
+</head>
+<body>
+<div class="rot"></div>
+<div class="blau"></div>
+<div class="grün"></div>
+<div class="braun"></div>
+<div class="lila"></div>
+<div class="orange"></div>
+<div class="pink"></div>
+<div class="gray"></div>
+<div class="black"></div>
+<div class="red2"></div>
+</body>
+</html>
