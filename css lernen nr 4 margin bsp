@@ -1,0 +1,14 @@
+      .hintergrundbox {
+        background-color: #380b61;
+        width: 25%;
+        height: 25%;
+        margin-left:100px;
+        z-index: 2;
+      }
+      .blauebox {
+        background-color: aqua;
+        color: violet;
+        font-size: 500%;
+        margin: 100px 100px 300px;
+        z-index: 1;
+      }
