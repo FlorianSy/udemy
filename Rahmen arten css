@@ -28,22 +28,27 @@
     .braun{
       background-color: brown;
       border: 10px gold outset;
+      border-width: 50px 50px 20px 20px;
     }
     .lila{
       background-color: blueviolet;
       border: 10px gold double ;
+      border-width: 20px 30px 50px 50px ;
     }
     .orange{
       background-color: orange;
       border:10px gold solid;
+      border-top: 100px;
     }
     .pink{
       background-color: pink;
       border: 10px gold dashed ;
+      border-bottom: 50px;
     }
     .gray{
       background-color: gray;
       border:10px gold dotted;
+      border-radius:100px;
     }
     .red2{
       background-color: crimson;
@@ -52,6 +57,7 @@
     .black{
       background-color: black;
       border: 10px gold none;
+      border-style: dotted inset;
     }
 
   </style>
